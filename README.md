@@ -1,5 +1,5 @@
 # test
- 首先，我们从零开始， 
+ 先，我们从零开始， 
  假设你现在想要增加3个远程库地址，分别为 :
 
 https://git.oschina.net/shede333/swioslibary.git 
